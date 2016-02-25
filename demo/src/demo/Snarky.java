@@ -6,4 +6,8 @@ public class Snarky {
 		String szReply= "Why are you bothering me?";
 		return szReply;
 	}
+	
+	public void test() {
+		
+	}
 }
